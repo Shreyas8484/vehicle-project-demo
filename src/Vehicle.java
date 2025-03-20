@@ -3,6 +3,7 @@ public class Vehicle {
     private int speed;
     private String name;
 
+    //create vehicle constructor:
     public Vehicle(int speed, String name) {
 
         this.speed = Math.max(speed, 0);
