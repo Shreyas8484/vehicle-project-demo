@@ -1,4 +1,5 @@
 public class Vehicle {
+    //created state variables below:
     private int speed;
     private String name;
 
